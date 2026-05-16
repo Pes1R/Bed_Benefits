@@ -1,3 +1,3 @@
 1.0.0
--Fabric, Forge and NeoForge all working.
+-Fabric, Forge and NeoForge all working from 1.21.4 to 1.21.11.
 -All benefits are configurable by config file.
