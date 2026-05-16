@@ -1,2 +1,2 @@
 1.0.0
-Fabric, Forge and Neoforge all working.
+Fabric, Forge and NeoForge all working.
