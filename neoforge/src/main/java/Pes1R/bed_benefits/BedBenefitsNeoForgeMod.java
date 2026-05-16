@@ -1,7 +1,6 @@
 package Pes1R.bed_benefits;
 
 
-import net.minecraft.world.entity.player.Player;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.common.NeoForge;

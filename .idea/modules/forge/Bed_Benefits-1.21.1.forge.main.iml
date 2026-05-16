@@ -19,9 +19,9 @@
   </component>
   <component name="McpModuleSettings">
     <option name="mappingFile" value="C:\Users\pesin\Documents\Java\Projects\Bed_Benefits-1.21.1\forge\build\createMcpToSrg\output.tsrg" />
-    <option name="mcpVersion" value="official_1.21.1" />
-    <option name="minecraftVersion" value="1.21.1" />
-    <option name="platformVersion" value="52.0.28" />
+    <option name="mcpVersion" value="official_1.21.4" />
+    <option name="minecraftVersion" value="1.21.4" />
+    <option name="platformVersion" value="54.0.10" />
     <option name="srgType" value="TSRG" />
   </component>
 </module>

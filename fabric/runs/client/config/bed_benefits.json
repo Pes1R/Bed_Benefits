@@ -4,7 +4,7 @@
     "requiredFoodAmount": 0
   },
   "sleepOffEffects": {
-    "removeHarmfulEffects": false,
+    "removeHarmfulEffects": true,
     "removeBeneficialEffects": false,
     "removeNeutralEffects": false,
     "requiredFoodAmount": 0

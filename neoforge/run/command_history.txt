@@ -7,3 +7,6 @@
 /time set night
 /effect give Dev minecraft:hunger
 /time set night
+/damage Dev 10
+/effect give Dev minecraft:hunger
+/time set night
