@@ -1,0 +1,9 @@
+/damage Dev 10
+/give Dev bed
+/give Dev minecraft:black_bed
+/give Dev minecraft:rotten_flesh 2
+/damage Dev 10
+/time set noon
+/time set night
+/effect give Dev minecraft:hunger
+/time set night

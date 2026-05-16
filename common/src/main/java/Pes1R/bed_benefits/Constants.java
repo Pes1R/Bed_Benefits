@@ -1,0 +1,11 @@
+package Pes1R.bed_benefits;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+public class Constants {
+
+	public static final String MOD_ID = "bed_benefits";
+	public static final String MOD_NAME = "Bed Benefits";
+	public static final Logger LOG = LoggerFactory.getLogger(MOD_NAME);
+}
